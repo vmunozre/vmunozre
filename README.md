@@ -31,8 +31,9 @@ You can find my personal projects at my website [victorreiner.com](https://victo
 
 ### Technologies
 
-| **Backend** |<img height="48" alt="Node JS" src="./assets/logos/nodejs.png"/> <img height="48" alt="Javascript" src="./assets/logos/javascript.png"/> <img height="48" alt="Typescript" src="./assets/logos/typescript.png"/>|
+| **Area** |List|
 |:--------------:|---|
+| **Backend** |<img height="48" alt="Node JS" src="./assets/logos/nodejs.png"/> <img height="48" alt="Javascript" src="./assets/logos/javascript.png"/> <img height="48" alt="Typescript" src="./assets/logos/typescript.png"/>|
 | **Frontend**   | <img height="46" alt="Vue" src="./assets/logos/vue.svg"> <img height="48" alt="Javascript" src="./assets/logos/javascript.png"> |
 | **Database**   | <img height="48" alt="MongoDB" src="./assets/logos/mongodb.png"> <img height="48" alt="Firebase database" src="./assets/logos/file-type-firebase.svg"> |
 | **Devops**     | <img height="48" alt="Docker" src="./assets/logos/docker.png"> <img height="48" alt="Proxmox" src="./assets/logos/proxmox.svg"> <img height="45" alt="Sentry" src="./assets/logos/sentry.svg"> <img height="48" alt="AWS" src="./assets/logos/aws.png"> <img height="48" alt="datadog" src="./assets/logos/datadog.png"> |
