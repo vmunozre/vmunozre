@@ -3,7 +3,7 @@
 I am a software developer working from Spain. I love web and video game development. And I'm starting in devops.
 
 
-**About me**
+### About me
 
 - 💼 Backend Engineer at [<img height="18" alt="bipicar" src="./assets/company/bipi.png"> Bipicar ](https://bipicar.com)
 
