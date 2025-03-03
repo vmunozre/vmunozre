@@ -5,7 +5,7 @@ I am a software developer working from Spain. I love web and video game developm
 
 ### About me
 
-- 💼 Backend Engineer at [<img height="18" alt="bipicar" src="./assets/company/bipi.png"> Bipicar ](https://bipicar.com)
+- 💼 Backend Engineer at [ Crowdfarming ](https://www.crowdfarming.com/es)
 
 - 🌐 Web site: [victorreiner.com](https://victorreiner.com)
 
